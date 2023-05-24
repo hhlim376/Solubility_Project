@@ -32,3 +32,4 @@ Above are the results for the 10 best performing models. The extra trees regress
 ## Organization
 * data --> Contains raw and processed data for the project
 * src --> Contains 5 notebooks detailing the steps for the project as well as a pickle file of the Extra Trees Regressor model
+* images --> contains a few visuals from the project which can also be seen in the notebooks
